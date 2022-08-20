@@ -1,10 +1,19 @@
+
+##9999999999999999999999999999999999999999999999999999999999999999999999
+##9999999999999999999999999999999999999999999999999999999999999999999999
+##9999999999999999999999999999999999999999999999999999999999999999999999
+
+
+
 # # Homework_0:currency calculator
-# # Date:2022/08/05
+
 
 # #Exchange Rate
-# fJPY_Exchange_Rate = 0.22
-# fUSD_Exchange_Rate = 29.95
-# fTHB_Exchange_Rate = 0.84
+# fJPY_Exchange_Rate = 0.220
+# fUSD_Exchange_Rate = 29.950
+# fTHB_Exchange_Rate = 0.840
+
+
 
 # #Intput
 # strUser_Name = input("Hello! what is your name?")
