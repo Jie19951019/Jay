@@ -9,3 +9,4 @@ a = driver.find_element('xpath','/html/body/div[2]/div/table[1]/tbody/tr/td[1]/d
 print(a)
 # /html/body/div[2]/div[2]/div[2]/div/span[1]
 time.sleep(5)
+time.sleep(5)
